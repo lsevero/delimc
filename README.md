@@ -1,4 +1,7 @@
 delimc
+
+[![Clojars Project](https://img.shields.io/clojars/v/lsevero/delimc.svg)](https://clojars.org/lsevero/delimc)
+
 ----
 
 A delimited continuations library for Clojure 1.4.0 (and 1.3.0). Portions based on cl-cont by Slava Akhmechet (http://defmacro.org).
